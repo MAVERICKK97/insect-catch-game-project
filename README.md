@@ -9,3 +9,5 @@ Open index.html in your browser.
 - Catch insects
 - Score system
 - Interactive gameplay
+## Live Demo
+https://maverickk97.github.io/insect-catch-game-project/
